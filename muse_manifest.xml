@@ -1,0 +1,43 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="badcraftdevelopment.github.io" resolutions="1x" timestamp="1507469104962">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="448847699" ref="products:legends:index:developers:upcoming"/>
+    <file name="products.css" crc="239815893" ref="products"/>
+    <file name="legends.css" crc="239815893" ref="legends"/>
+    <file name="index.css" crc="3852445146" ref="index"/>
+    <file name="developers.css" crc="239815893" ref="developers"/>
+    <file name="upcoming.css" crc="239815893" ref="upcoming"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:legends:upcoming:developers:products"/>
+    <file name="museutils.js" crc="17924269" ref="index:legends:upcoming:developers:products"/>
+    <file name="whatinput.js" crc="86476730" ref="index:legends:upcoming:developers:products"/>
+    <file name="museconfig.js" crc="278381782" ref="index:legends:upcoming:developers:products"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:legends:upcoming:developers:products"/>
+    <file name="require.js" crc="3861931657" ref="index:legends:upcoming:developers:products"/>
+  </folder>
+  <folder name="images">
+    <file name="untitled-2.png" crc="4223841259" seo="true" ref="index:legends:upcoming:developers:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="developers" alt=""/>
+      <caption webpage="legends" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="upcoming" alt=""/>
+    </file>
+    <file name="u158-4.png" crc="3764703023" ref="index:legends:upcoming:developers:products"/>
+    <file name="u167-4.png" crc="3992017981" ref="index:legends:upcoming:developers:products"/>
+    <file name="u176-4.png" crc="4046406963" ref="index:legends:upcoming:developers:products"/>
+    <file name="u184-4.png" crc="6420823" ref="index:legends:upcoming:developers:products"/>
+    <file name="u193-4.png" crc="3820757692" ref="index:legends:upcoming:developers:products"/>
+    <file name="u270-4.png" crc="32899794" ref="index"/>
+    <file name="u286-4.png" crc="3977938066" ref="index"/>
+    <file name="f2d9a9_3c1a7dcf69874806b8e69714ec9304a5.png" crc="308820239" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3765601199" seo="true" mt="1507469033416" redirect="true"/>
+  <file name="legends.html" crc="4293947116" seo="true" mt="1507467217714" redirect="true"/>
+  <file name="upcoming.html" crc="106580851" seo="true" mt="1507467217714" redirect="true"/>
+  <file name="developers.html" crc="3801852442" seo="true" mt="1507467217714" redirect="true"/>
+  <file name="products.html" crc="283349193" seo="true" mt="1507467217714" redirect="true"/>
+</manifest>
