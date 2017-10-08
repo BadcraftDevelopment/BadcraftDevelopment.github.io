@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="badcraftdevelopment.github.io" resolutions="1x" timestamp="1507469104962">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="badcraftdevelopment.github.io" resolutions="1x" timestamp="1507470118227">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="448847699" ref="products:legends:index:developers:upcoming"/>
@@ -35,9 +35,9 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3765601199" seo="true" mt="1507469033416" redirect="true"/>
-  <file name="legends.html" crc="4293947116" seo="true" mt="1507467217714" redirect="true"/>
-  <file name="upcoming.html" crc="106580851" seo="true" mt="1507467217714" redirect="true"/>
-  <file name="developers.html" crc="3801852442" seo="true" mt="1507467217714" redirect="true"/>
-  <file name="products.html" crc="283349193" seo="true" mt="1507467217714" redirect="true"/>
+  <file name="index.html" crc="4244596463" seo="true" mt="1507470104431" redirect="true"/>
+  <file name="legends.html" crc="76043734" seo="true" mt="1507470104431" redirect="true"/>
+  <file name="upcoming.html" crc="380663396" seo="true" mt="1507470104431" redirect="true"/>
+  <file name="developers.html" crc="205819907" seo="true" mt="1507470104431" redirect="true"/>
+  <file name="products.html" crc="4040651767" seo="true" mt="1507470104431" redirect="true"/>
 </manifest>
